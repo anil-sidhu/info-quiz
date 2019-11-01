@@ -1,10 +1,39 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "json-server",
-            "author": "typicode"
-        }
-    ]
-   
-} 
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "categories": [
+    {
+      "name": "React",
+      "id": 1
+    },
+    {
+      "name": "Redux",
+      "id": 2
+    },
+    {
+      "name": "Angular",
+      "id": 3
+    },
+    {
+      "name": "Java",
+      "id": 4
+    },
+    {
+      "name": "Html",
+      "id": 5
+    },
+    {
+      "name": "CSS",
+      "id": 6
+    },
+    {
+      "name": "Javascript",
+      "id": 7
+    }
+  ]
+}
