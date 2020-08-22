@@ -23,7 +23,7 @@ function App() {
             </Nav.Link> <Nav.Link href="#pricing"><Link to="/create">Create User</Link>
             </Nav.Link>
           </Nav>
-        </Navbar> */}
+        </Navbar>
          <Switch>
           <Route path="/about">
             <About />
